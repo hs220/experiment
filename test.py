@@ -1,8 +1,11 @@
 def do_something():
-  return "test"
+    return "test"
 
 def some_other_work():
-  return "changed!"
+    return "changed!"
 
 def okay():
-  return "something"
+    return "something"
+
+def some_work_after():
+    return "another thing"
